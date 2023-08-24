@@ -1,0 +1,34 @@
+.PadreCont {
+    padding-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.tituloCont {
+    padding-top: 4rem;
+    text-align: center;
+    color: #40F8FF;
+}
+
+.contact{
+    text-align: center;
+   
+    
+}
+
+.info {
+    padding: 0px 15px ;
+    text-align: center;
+    border: solid 4px black;
+    background-color: #279EFF;
+   border-radius: 4rem;
+   box-shadow: 0 0 0.5rem #000;
+   
+   
+}
+
+.QR {
+   
+    margin-top: 1rem;
+}

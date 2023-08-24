@@ -1,0 +1,20 @@
+.tituloEst{
+    padding-top: 4rem;
+    margin-top: 2rem;
+    text-align: center;
+    color: #40F8FF;
+    padding-bottom: 2rem;
+}
+
+.Estudio {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.Estudio img {
+    padding-bottom: 3rem;
+    width: 50%;
+}

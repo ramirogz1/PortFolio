@@ -1,0 +1,13 @@
+.portada {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 6rem;
+}
+span {
+    color: #40F8FF;
+}
+.fotoCv {
+ width: 30%;
+ border-radius: 50%;
+}

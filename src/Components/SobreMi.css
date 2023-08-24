@@ -1,0 +1,13 @@
+.about {
+   padding-top: 6rem;
+    color: white;
+    text-align: center;
+}
+
+.tituloAbout{
+    padding-top: 3.2rem;
+    display: flex;
+    justify-content: center;
+    color: #40F8FF;
+}
+
