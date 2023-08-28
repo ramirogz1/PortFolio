@@ -33,7 +33,7 @@ export default function Proyectos() {
           <img src={Cuppon} alt="" />
           <h5>
             Cuppon. Pagina con una vista de una similada pagina para aplicar
-            cumpones realizada como practica para desafio latam. <br />
+            cupones realizada como practica para desafio latam. <br />
             TECNOLOGÍAS: HTML, CSS, Bootstap
           </h5>
           <p>
